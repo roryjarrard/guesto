@@ -1,5 +1,5 @@
 current directory: /Users/rjarrard/code/ruby/guesto/vendor/cache/ruby/2.6.0/gems/msgpack-1.4.2/ext/msgpack
-/Users/rjarrard/.asdf/installs/ruby/2.6.6/bin/ruby -I /Users/rjarrard/.asdf/installs/ruby/2.6.6/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210714-21955-phuc5v.rb extconf.rb
+/Users/rjarrard/.asdf/installs/ruby/2.6.6/bin/ruby -I /Users/rjarrard/.asdf/installs/ruby/2.6.6/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210714-41223-1ygz93d.rb extconf.rb
 checking for ruby/st.h... yes
 checking for st.h... yes
 checking for rb_str_replace() in ruby.h... yes
@@ -40,4 +40,4 @@ linking shared-object msgpack/msgpack.bundle
 
 current directory: /Users/rjarrard/code/ruby/guesto/vendor/cache/ruby/2.6.0/gems/msgpack-1.4.2/ext/msgpack
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 msgpack.bundle ./.gem.20210714-21955-19vtqm7/msgpack
+/usr/bin/install -c -m 0755 msgpack.bundle ./.gem.20210714-41223-ah2pqa/msgpack

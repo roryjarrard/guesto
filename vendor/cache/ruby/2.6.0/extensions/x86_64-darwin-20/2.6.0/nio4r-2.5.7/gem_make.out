@@ -1,5 +1,5 @@
 current directory: /Users/rjarrard/code/ruby/guesto/vendor/cache/ruby/2.6.0/gems/nio4r-2.5.7/ext/nio4r
-/Users/rjarrard/.asdf/installs/ruby/2.6.6/bin/ruby -I /Users/rjarrard/.asdf/installs/ruby/2.6.6/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210714-21955-172lj2e.rb extconf.rb
+/Users/rjarrard/.asdf/installs/ruby/2.6.6/bin/ruby -I /Users/rjarrard/.asdf/installs/ruby/2.6.6/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210714-41223-1rdt3ov.rb extconf.rb
 checking for unistd.h... yes
 checking for linux/aio_abi.h... no
 checking for linux/io_uring.h... no
@@ -93,4 +93,4 @@ linking shared-object nio4r_ext.bundle
 
 current directory: /Users/rjarrard/code/ruby/guesto/vendor/cache/ruby/2.6.0/gems/nio4r-2.5.7/ext/nio4r
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20210714-21955-pdup40
+/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20210714-41223-3b9csp

@@ -1,5 +1,5 @@
 current directory: /Users/rjarrard/code/ruby/guesto/vendor/cache/ruby/2.6.0/gems/ffi-1.15.3/ext/ffi_c
-/Users/rjarrard/.asdf/installs/ruby/2.6.6/bin/ruby -I /Users/rjarrard/.asdf/installs/ruby/2.6.6/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210714-21955-18h0pwb.rb extconf.rb
+/Users/rjarrard/.asdf/installs/ruby/2.6.6/bin/ruby -I /Users/rjarrard/.asdf/installs/ruby/2.6.6/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210714-41223-1jzgpzr.rb extconf.rb
 checking for ffi_prep_closure_loc() in -lffi... yes
 checking for ffi_prep_cif_var()... yes
 checking for ffi_raw_call()... yes
@@ -40,4 +40,4 @@ linking shared-object ffi_c.bundle
 
 current directory: /Users/rjarrard/code/ruby/guesto/vendor/cache/ruby/2.6.0/gems/ffi-1.15.3/ext/ffi_c
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20210714-21955-3ckkr4
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20210714-41223-1ioj8z5
